@@ -3,4 +3,13 @@ Darling, just dive right in and follow my lead
 Well, I found a girl, beautiful and sweet
 Oh, I never knew you were the someone waiting for me
 
+<<<<<<< HEAD
 перекладачперекладачперекладач
+=======
+'Cause we were just kids when we fell in love
+Not knowing what it was
+I will not give you up this time
+But darling, just kiss me slow
+Your heart is all I own
+And in your eyes, you're holding mine
+>>>>>>> parent of 4848f4c (Add couple)
